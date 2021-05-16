@@ -1,0 +1,8 @@
+img {
+	width: 30%;
+height: 30%;
+border-radius: 3%;
+box-shadow: 0 3.2px 8.9px rgba(0, 0, 0, 0.141), 
+			0 10.7px 29.9px rgba(0, 0, 0, 0.209), 
+			0 48px 134px rgba(0, 0, 0, 0.35);
+}
